@@ -91,5 +91,5 @@ PRs welcome. If you'd like specific domain templates (e.g., compiler logs, netwo
 ## License
 
 MIT © Akash Bilgi
-Tell me which of those you want and I will add it to the repo content in this canvas.
+
 
